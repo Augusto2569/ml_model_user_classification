@@ -1,4 +1,4 @@
-# Machine Learning Model for Classifying OpenSea Users 🧠🤖
+# Machine Learning Model for Classifying OpenSea Traders 🧠🤖
 Repository corresponding to the final couse project at Universidad Carlos III de Madrid. 
 
 ## Authors ✒️
